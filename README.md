@@ -59,3 +59,15 @@ Designed as a **college-ready desktop project** with EXE and installer support.
 ```bash
 pip install nltk pillow
 ```
+
+### Step 2 — Run the App
+
+```bash
+python app.py
+```
+
+## ▶️ Run on Windows (No Python Needed)
+#You can run this chatbot without installing Python.
+
+
+
