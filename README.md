@@ -65,9 +65,20 @@ pip install nltk pillow
 ```bash
 python app.py
 ```
-
+---
 ## ▶️ Run on Windows (No Python Needed)
-#You can run this chatbot without installing Python.
+You can run this chatbot without installing Python.
 
+### Step 1 — Download / Clone the Repo
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+```
+
+### Step 2 — Open the App
+Navigate to:
+```bash
+dist/app.exe
+```
+Double-click to launch 🚀
 
 
